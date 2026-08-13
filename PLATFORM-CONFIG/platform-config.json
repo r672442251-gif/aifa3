@@ -1,0 +1,30 @@
+{
+  "instructions": {
+    "doc-platform-tools": true,
+    "doc-architecture": true,
+    "doc-glossary": true,
+    "doc-lessons": true,
+    "doc-antipatterns": true,
+    "doc-design": true,
+    "doc-parallel-routing": false,
+    "doc-coding-standards": true,
+    "doc-troubleshooting": true,
+    "doc-context-state": false,
+    "doc-testing": true,
+    "doc-single-agent": true,
+    "doc-dialogue-format": true,
+    "doc-content-engine": true,
+    "doc-passport": true,
+    "doc-use-cases": true,
+    "doc-steps": true,
+    "doc-code-samples": true
+  },
+  "languages": [
+    "en",
+    "ru"
+  ],
+  "defaultLanguage": "en",
+  "features": {
+    "cookieBanner": true
+  }
+}
